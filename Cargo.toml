@@ -1,0 +1,9 @@
+[package]
+name = "trytls-openssl"
+version = "0.1.0"
+authors = ["ddh <dianehosfelt@gmail.com>"]
+
+[dependencies]
+hyper-openssl = "0.2"
+openssl = "0.9"
+hyper = "0.10"
